@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Control-Flow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Control_Flow_jar</output-path>
+    <root id="archive" name="Control-Flow.jar">
+      <element id="module-output" name="Control-Flow" />
+    </root>
+  </artifact>
+</component>
